@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <global>
+        <catalog>
+            <content>
+                <tempate_filter>widget/template_filter</tempate_filter>
+            </content>
+        </catalog>
+        <blocks>
+            <adminhtml>
+                <rewrite>
+                    <catalog_helper_form_wysiwyg_content>Rabot_WidgetCategoryDescription_Block_Widget_Anywhere</catalog_helper_form_wysiwyg_content>
+                </rewrite>
+            </adminhtml>
+        </blocks>
+    </global>
+</config>
